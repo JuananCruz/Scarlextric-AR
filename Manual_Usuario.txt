@@ -1,0 +1,13 @@
+Manual Usuario: (Fichero a ejecutar -> main.py)
+
+Una vez ejecutado el proyecto y renderizado el coche y circuito:
+
+Diga "empezar" para que el coche se mueva automaticamente.
+Si la velocidad le parece muy poca, diga "acelerar".
+Si ahora la velocidad le parece mucha, diga "frenar".
+
+Diga "detener" para que el coche se pare.
+
+Si no se acostumbra a la conducción con el marcador y ha perdido todas las vidas y quiere seguir jugando, diga "reiniciar".
+
+Para elegir niveles, diga "nivel 1" o "nivel 2"
